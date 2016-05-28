@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+      <!--  <item
+            android:id="@+id/dashboard"
+            android:title="@string/navdrawer_dashboard"
+            android:icon="@drawable/ic_home_grey600_48dp"/> -->
+        <item
+            android:id="@+id/challenges"
+            android:title="@string/navdrawer_challenges"
+            android:icon="@drawable/ic_speedometer_grey600_48dp"/>
+        <item
+            android:id="@+id/groups"
+            android:title="@string/navdrawer_groups"
+            android:icon="@drawable/ic_account_multiple_outline_grey600_48dp"/>
+        <item
+            android:id="@+id/rewards"
+            android:title="@string/navdrawer_rewards"
+            android:icon="@drawable/ic_square_inc_cash_grey600_48dp"/>
+    </group>
+
+    <item android:title="@string/navdrawer_other">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:title="@string/navdrawer_settings"
+                android:icon="@drawable/ic_settings_grey600_48dp"/>
+
+        </menu>
+    </item>
+
+</menu>

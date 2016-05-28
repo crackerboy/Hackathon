@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GymTonic</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="navdrawer_dashboard">Dashboard</string>
+    <string name="navdrawer_challenges">Challenges</string>
+    <string name="navdrawer_groups">Groups</string>
+    <string name="navdrawer_rewards">Rewards</string>
+    <string name="navdrawer_settings">Settings</string>
+
+    <string name="navdrawer_other">Others</string>
+
+    <string name="name">Name Surname</string>
+    <string name="email">name.surname@email.com</string>
+    <string name="title_activity_make_abet">Make a bet</string>
+    <string name="title_activiy_scoring"></string>
+    <string name="title_activity_groups">Groups</string>
+</resources>

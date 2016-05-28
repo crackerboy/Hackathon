@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:slide="http://schemas.android.com/apk/res/com.tjerkw.slideexpandable.library"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+	<RelativeLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			android:id="@+id/expandableItem">
+
+		<TextView
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:id="@+id/text"
+				android:layout_marginTop="12dp"
+				android:layout_marginBottom="12dp"
+				android:layout_marginLeft="12dp"
+				android:text="Hello World" android:textSize="22dp"/>
+
+	</RelativeLayout>
+
+	<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:id="@+id/expandable"
+			android:background="#FFFFFF">
+
+		<TextView
+				android:id="@+id/button_km"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:text="Distance"
+                android:layout_marginTop="9dp"
+                android:layout_marginBottom="9dp"
+                android:layout_marginLeft="12dp"
+                android:divider="#FFCC00"
+				android:textSize="16dp"/>
+
+        <TextView
+            android:id="@+id/button_avgspeed"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Average Speed"
+            android:layout_marginTop="9dp"
+            android:layout_marginBottom="9dp"
+            android:layout_marginLeft="12dp"
+            android:divider="#FFCC00"
+            android:textSize="16dp"/>
+
+        <TextView
+            android:id="@+id/button_time"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Time"
+            android:layout_marginTop="9dp"
+            android:layout_marginBottom="9dp"
+            android:layout_marginLeft="12dp"
+            android:textSize="16dp"/>
+
+	</LinearLayout>
+</LinearLayout>
