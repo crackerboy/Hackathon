@@ -1,4 +1,4 @@
-Hack UNIPD  Saturday 20 June 2015
+Hack UNIPD - 20-21 June 2015
 
 Title: WikiUNIPD
 

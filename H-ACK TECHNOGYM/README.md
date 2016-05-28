@@ -1,3 +1,3 @@
-H-ack Technogym Saturday 17 October 2015
+H-ack Technogym - 17-18 October 2015
 
 Title: GymTonic

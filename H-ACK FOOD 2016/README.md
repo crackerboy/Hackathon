@@ -1,3 +1,3 @@
-H-ACK FOOD 2016 Saturday 19 March 2016
+H-ACK FOOD 2016 - 19-20 March 2016
 
 Title: NaturaSiAmo

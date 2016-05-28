@@ -1,4 +1,4 @@
-Hackathon of Droidcon 2016 -  9 April 2016
+Hackathon of Droidcon 2016 -  9-10 April 2016
 
 Title: DoorBell
 
